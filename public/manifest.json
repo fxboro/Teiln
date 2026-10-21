@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Teiln - Collaborative Expense Tracker",
+  "short_name": "Teiln",
+  "description": "Mobile-first sleek collaborative expense tracking with smart debt simplification, group chat, settlements, and budget tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080b11",
+  "theme_color": "#090d16",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

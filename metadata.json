@@ -1,0 +1,6 @@
+{
+  "name": "Teiln - Collaborative Expense Tracker",
+  "description": "Mobile-first sleek collaborative expense tracking with smart debt simplification, group chat, settlements, and budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
